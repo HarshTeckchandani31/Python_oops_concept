@@ -1,1 +1,5 @@
-class and Obj(example)
+1. class and Obj(example)
+2. class hass data/attribute and func/methods
+    >code walkthrough
+    >attributes get called itself, methods are called manually
+3. why python is called oop? everything in python is an object(data structure, data type etc)

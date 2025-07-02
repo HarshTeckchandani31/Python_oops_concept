@@ -19,4 +19,5 @@ sam = employee()
 # print(sam.id)
 
 # calling a method
-sam.travel("Vadodara")
+sam.travel("Vadodara") 
+print(type(sam))
