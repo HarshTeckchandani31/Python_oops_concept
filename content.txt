@@ -3,3 +3,14 @@
     >code walkthrough
     >attributes get called itself, methods are called manually
 3. why python is called oop? everything in python is an object(data structure, data type etc)
+4. advantages of OOPS:
+    > you can create your own datatype
+    > code reusability
+    > debugging 
+    > easy to colab
+
+
+5. End to End project (chatbook class)
+    >Encalpsulation
+    > getter and setter
+    > static method
