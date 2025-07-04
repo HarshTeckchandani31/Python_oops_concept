@@ -11,6 +11,8 @@
 
 
 5. End to End project (chatbook class)
-    >Encalpsulation
+    > func vs method
+    > magic method / constructor
+    > Encalpsulation
     > getter and setter
     > static method

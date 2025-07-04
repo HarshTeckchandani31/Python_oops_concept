@@ -67,4 +67,4 @@ class chatbook:
             print("you are not logged in !!")
         print("\n")
         self.menu()
-obj = chatbook()
+# obj = chatbook()

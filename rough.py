@@ -13,4 +13,14 @@
 
 from oops_py_project import chatbook
 
-obj = chatbook()
+# obj = chatbook()
+
+lst = [1,2,3]
+
+# function
+a1= len(lst)
+print(a1)
+
+# calling method
+user1 = chatbook()
+user1.msg_friend()
