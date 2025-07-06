@@ -1,5 +1,6 @@
 class chatbook:
     def __init__(self):
+        self.name = "Default user"
         self.username = ''
         self.password = ''
         self.loggedin = False

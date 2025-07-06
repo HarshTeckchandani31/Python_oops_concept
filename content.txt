@@ -12,7 +12,12 @@
 
 5. End to End project (chatbook class)
     > func vs method
-    > magic method / constructor
+    > magic method / constructor/ durder method
+    > self
+    > you can also create attribute outside the class
+
     > Encalpsulation
     > getter and setter
     > static method
+
+    > inheritance
