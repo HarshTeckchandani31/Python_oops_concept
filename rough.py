@@ -23,4 +23,4 @@ print(a1)
 
 # calling method
 user1 = chatbook()
-# user1.msg_friend()
+user1.msg_friend()
