@@ -16,13 +16,13 @@ class Dog:
         self.behaviour ="friendly"
 
     def speak(self):
-        print(f"buddy barks. he is very {self.behaviour} ")
+        print(f"{self.name} barks. he is very {self.behaviour} ")
 
 # Create an instance of class Animal
-# animal = Animal("Generic Animal")
-# animal.speak() # Output: Generic Animal makes a sound.
+animal = Animal("Generic Animal")
+animal.speak() # Output: Generic Animal makes a sound.
 
 # create an instance of class dog
 
-dog = Dog()
+dog = Dog("Buddy")
 dog.speak() # Output: Buddy barks
