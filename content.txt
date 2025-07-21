@@ -23,7 +23,7 @@
 6. Inheritance
     > Inheritance code sample
     > Why Inheritance is needed? {code reusability, parent has no access to child class}
-    > Why gets inherited? - constructor, non private attributes, non private methods
+    > What gets inherited? - constructor, non private attributes, non private methods
     > constructor overloading and method overloading
     > super keyword(can be used only inside class, can not access variables/ attributes, used inside child class)
 
